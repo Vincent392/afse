@@ -1,0 +1,12 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height for centering */
+}
+.search-container input[type="text"] {
+    margin-right: 10px; /* Space between the search box and the button */
+}
+.search-container img {
+    margin-left: 10px; /* Space between the button and the image */
+}
